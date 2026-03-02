@@ -21,6 +21,6 @@ Al hacer `push` a `main`:
 4. Actualiza ECS Fargate para usar la nueva versión del examen.
 
 ## Infraestructura Objetivo (Tarea 2)
-- **Cluster**: `tarea2-fargate-cluster`
-- **Servicio**: `tarea2-fargate-service`
-- **Registro**: `tarea2-fargate` (ECR)
+- **Cluster**: `tarea2-Arteachi-cluster`
+- **Servicio**: `tarea2-Arteachi-service`
+- **Registro**: `tarea2-Arteachi` (ECR)
